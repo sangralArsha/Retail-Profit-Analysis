@@ -12,7 +12,7 @@ This project investigates the profitability patterns of a large retail business 
   #### Where are we losing profit margin, and what is causing it?
 
 While high sales can look impressive, the real health of the business depends on profit, margin stability, and cost efficiency.
-This project identifies whether certain regions, product categories, or cost factors—like discounts or shipping expenses—are quietly reducing profit.
+This project identifies whether certain regions, product categories, or cost factors, like discounts or shipping expenses—are quietly reducing profit.
 
 The final goal is to provide clear, data-backed insights and recommendations that the business can act on.
 
@@ -153,7 +153,7 @@ Margins trend around ~37% with minimal month-to-month movement.
 Compared to East, West, and Central, South consistently returns lower profit margin.
 
 4. Office Supplies category underperforms.
-Lowest profit margin, lowest revenue, and slow movement — consistently poor results across panels.
+Lowest profit margin, lowest revenue, and slow movement, consistently poor results across panels.
 
 5. Technology is the strongest category.
 High sales + strong margins make Technology the profit engine of the business.
