@@ -92,7 +92,7 @@ Overall average profit margin ≈ 37%
 ➡ The business is healthy on average, but averages hide hidden issues.
 So, deeper category & region analysis was needed.
 
-![Chart]()
+![Chart](https://github.com/sangralArsha/Retail-Profit-Analysis/blob/main/Expolatory%20Data%20Analysis.png)
 
 
 ### Profit Margin by Product Category
@@ -103,7 +103,7 @@ Office Supplies: 31.7% (lowest)
 
 ➡ Office Supplies consistently shows weak profitability and many low-profit outliers.
 
-(Insert your boxplot here)
+![Chart](https://github.com/sangralArsha/Retail-Profit-Analysis/blob/main/Expolatory%20Data%20Analysis.png)
 
 ### Profit Margin by Region
 
