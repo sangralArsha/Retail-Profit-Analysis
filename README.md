@@ -1,6 +1,7 @@
 # Retail Profit Analysis – End-to-End Project
 ## Retail Dashboard
-📥 **Download Power BI File (.pbix)**  
+
+**Download Power BI File (.pbix)**  
 🔗 (https://drive.google.com/drive/search?q=%22retail%20%22)
 
 Understanding where profit is strong, where it is weak, and why margin erosion is happening. 
