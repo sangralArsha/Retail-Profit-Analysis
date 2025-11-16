@@ -103,7 +103,7 @@ Office Supplies: 31.7% (lowest)
 
 ➡ Office Supplies consistently shows weak profitability and many low-profit outliers.
 
-![Chart](https://github.com/sangralArsha/Retail-Profit-Analysis/blob/main/Expolatory%20Data%20Analysis.png)
+![Chart](https://github.com/sangralArsha/Retail-Profit-Analysis/blob/main/EDA%202%20.png)
 
 ### Profit Margin by Region
 
@@ -120,21 +120,21 @@ Corporate, Consumer, Home Office, and Small Business all sat between 36–38%.
 
 One of the clearest patterns:
 
-As discount increases, margin drops sharply.
+As the discount increases, the margin drops sharply.
 
 Office Supplies is hit the hardest by discounts.
 
-(Insert your seaborn lineplot here)
+![Chart](https://github.com/sangralArsha/Retail-Profit-Analysis/blob/main/EDA%203.png)
 
 ➡ High discounting is a major driver of weak profitability.
 
-📊 Power BI Dashboards
+## Power BI Dashboards
 
 I created two dashboards:
 
-🟦 Dashboard 1: Retail Profit Dashboard (Overview)
+### Dashboard 1: Retail Profit Dashboard (Overview)
 
-(High-level business view)
+![Chart](https://github.com/sangralArsha/Retail-Profit-Analysis/blob/main/overall%20dashboard.png)
 
 INSIGHTS
 
@@ -156,9 +156,10 @@ High sales + strong margins make Technology the profit engine of the business.
 6. Margin erosion is significant.
 KPI shows notable erosion despite revenue growth.
 
-🟧 Dashboard 2: Retail Profit Analysis (Deep Dive)
+### Dashboard 2: Retail Profit Analysis (Deep Dive)
 
 (Identifying exact causes of margin loss)
+![chart](https://github.com/sangralArsha/Retail-Profit-Analysis/blob/main/Profit%20analysis.png)
 
 INSIGHTS
 
@@ -168,13 +169,15 @@ When narrowed by year/quarter, South consistently shows the lowest profit.
 2. Office Supplies is the weakest category.
 Every low-profit or loss-making product comes from Office Supplies.
 
-3. High discounts strongly reduce profit margins.
+3.OIC Thumb Tacks is the weakest product from office supplies
+
+4. High discounts strongly reduce profit margins.
 Scatterplot confirms: Discounts > 10–20% destroy margins.
 
-4. Shipping cost further reduces margin.
+5. Shipping cost further reduces margin.
 Higher shipping = lower margin, especially in South and in Office Supplies.
 
-5. Decomposition tree confirms the root cause.
+6. Decomposition tree confirms the root cause.
 Path:
 South → Office Supplies → High Discount Group → High Shipping Cost
 
@@ -183,13 +186,13 @@ This is the biggest driver of overall margin erosion.
 6. Least profitable products cluster in the same category.
 All top 5 worst products fall under Office Supplies.
 
-🟩 Combined Recommendations (for both dashboards)
-1️⃣ Reduce discounts on low-margin categories
+##  Combined Recommendations (for both dashboards)
+### Reduce discounts on low-margin categories
 
 Office Supplies should have strict discount caps (e.g., 10%).
-Avoid blanket promotions.
 
-2️⃣ Reconsider pricing strategy for Office Supplies
+
+### Reconsider pricing strategy for Office Supplies
 
 Increase prices where possible
 
@@ -197,7 +200,7 @@ Reevaluate supplier costs
 
 Remove consistently unprofitable SKUs
 
-3️⃣ Improve logistics, especially in South
+### Improve logistics, especially in South
 
 Route optimization
 
@@ -207,7 +210,7 @@ Local micro-fulfilment centers
 
 Shipping cost is a major margin killer.
 
-4️⃣ Promote high-margin categories more
+### Promote high-margin categories more
 
 Technology products should be prioritized for:
 
@@ -217,7 +220,7 @@ Ads & promotions
 
 Bundles & upsells
 
-5️⃣ Implement margin guardrails
+### Implement margin guardrails
 
 Before approving a discount or promotion:
 
@@ -225,11 +228,11 @@ Check expected post-discount margin.
 
 Set automated alerts for margin dropping below a threshold.
 
-6️⃣ Track margin erosion consistently
+###  Track margin erosion consistently
 
 Set up monthly reviews using the Profit Analysis dashboard.
 
-📌 Tools Used
+## Tools Used
 
 Python (Pandas, NumPy, Seaborn, Matplotlib)
 
@@ -237,7 +240,7 @@ Power BI (interactive dashboarding, DAX measures, modelling)
 
 Excel (quick cleaning and quality checks)
 
-📌 Final Summary
+## Final Summary
 
 This project highlights how a business can appear strong on the surface (good revenues, good average margins) while still suffering from deeper structural issues in:
 
