@@ -2,7 +2,7 @@
 ## Retail Dashboard
 
 **Download Power BI File (.pbix)**  
-🔗 (https://drive.google.com/drive/search?q=%22retail%20%22)
+🔗(https://drive.google.com/drive/folders/1VLjdfnNDbSCjrVy7FPoBNUWoGRdVPNIn)
 
 Understanding where profit is strong, where it is weak, and why margin erosion is happening. 
 ## Problem Statement
@@ -12,7 +12,7 @@ This project investigates the profitability patterns of a large retail business 
   #### Where are we losing profit margin, and what is causing it?
 
 While high sales can look impressive, the real health of the business depends on profit, margin stability, and cost efficiency.
-This project identifies whether certain regions, product categories, or cost factors, like discounts or shipping expenses—are quietly reducing profit.
+This project identifies whether certain regions, product categories, or cost factors, like discounts or shipping expenses, are quietly reducing profit.
 
 The final goal is to provide clear, data-backed insights and recommendations that the business can act on.
 
@@ -34,7 +34,7 @@ Which regions are inefficient
 Where discounts are too aggressive
 Which products drive growth vs. erosion
 
-This project analyzes profit margins across 1M+ retail transactions to help decision-makers optimize:
+This project analyses profit margins across 1M+ retail transactions to help decision-makers optimize:
 
 Pricing
 Discount policies
