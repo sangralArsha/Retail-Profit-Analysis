@@ -168,19 +168,19 @@ KPI shows notable erosion despite revenue growth.
 
 INSIGHTS
 
-1. South region produces the least profit.
+1. The South region produces the least profit.
 When narrowed by year/quarter, South consistently shows the lowest profit.
 
 2. Office Supplies is the weakest category.
 Every low-profit or loss-making product comes from Office Supplies.
 
-3.OIC Thumb Tacks is the weakest product from office supplies
+3. OIC Thumb Tacks is the weakest product from office supplies
 
 4. High discounts strongly reduce profit margins.
 Scatterplot confirms: Discounts > 10–20% destroy margins.
 
 5. Shipping cost further reduces margin.
-Higher shipping = lower margin, especially in South and in Office Supplies.
+Higher shipping costs = lower margin, especially in the South and in Office Supplies.
 
 6. Decomposition tree confirms the root cause.
 Path:
@@ -188,8 +188,8 @@ South → Office Supplies → High Discount Group → High Shipping Cost
 
 This is the biggest driver of overall margin erosion.
 
-6. Least profitable products cluster in the same category.
-All top 5 worst products fall under Office Supplies.
+6. The least profitable products cluster in the same category.
+All the top 5 worst products fall under Office Supplies.
 
 ##  Combined Recommendations (for both dashboards)
 ### Reduce discounts on low-margin categories
@@ -205,13 +205,13 @@ Reevaluate supplier costs
 
 Remove consistently unprofitable SKUs
 
-### Improve logistics, especially in South
+### Improve logistics, especially in the South
 
 Route optimization
 
 Carrier negotiation
 
-Local micro-fulfilment centers
+Local micro-fulfilment centres
 
 Shipping cost is a major margin killer.
 
